@@ -10,4 +10,7 @@ do
 
 done
 
+
 echo "First commit it should push and build should trigger"
+
+echo "second commit it should push and build should trigger"
