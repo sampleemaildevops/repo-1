@@ -9,3 +9,5 @@ do
 	echo $b
 
 done
+
+echo "First commit it should push and build should trigger"
